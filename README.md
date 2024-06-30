@@ -2,7 +2,7 @@
 This project analyzes a music store's database using MySQL. The analysis was completed by following Rishabh Mishra's YouTube tutorial. The project includes three sets of questions categorized as EASY, MODERATE, and ADVANCE. Each set is designed to enhance SQL querying skills by solving practical problems.
 
 ## Question Sets
-### Easy Questions
+### Easy Questions [https://github.com/bunty1305/Music_Store_Analysis/blob/main/ms_db_easy_queries.sql]
 1. Who is the senior-most employee based on job title?
 2. Which countries have the most invoices?
 3. What are the top 3 values of the total invoice?
